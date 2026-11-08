@@ -1,0 +1,12 @@
+target/
+data/
+.vagrant/
+.metadata/
+.settings/
+.project
+.classpath
+*.log
+.env
+*.zip
+*.box
+*.vdi

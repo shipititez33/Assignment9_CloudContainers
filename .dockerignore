@@ -1,0 +1,13 @@
+target/
+data/
+.git/
+.vagrant/
+.metadata/
+.settings/
+.project
+.classpath
+*.log
+*.zip
+*.pdf
+*.docx
+.env
